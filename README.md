@@ -1,5 +1,5 @@
-# write-a-word---Html5-Canvas
+# write a word
 
-A html5 canvas for you to write a word
+* A html5 canvas for you to write a word or anything you like
 
-can choose different color
+* have different color to choose
